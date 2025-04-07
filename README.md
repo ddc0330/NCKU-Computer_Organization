@@ -2,7 +2,7 @@
 
 This repository contains homework assignments and course handouts for the **Computer Organization** course offered by the Department of Computer Science and Information Engineering at **National Cheng Kung University (NCKU)**.
 
-## 🧠 Course Topics
+## Course Topics
 
 The course focuses on the interaction between software and hardware, with a particular emphasis on RISC-V architecture. Covered topics include:
 
@@ -23,7 +23,7 @@ The course focuses on the interaction between software and hardware, with a part
   - Pipelining concepts
   - Memory hierarchy and caching principles
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 NCKU-Computer_Organization/
